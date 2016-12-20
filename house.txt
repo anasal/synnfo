@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Roof is added
-=======
 I want to get a dog..
->>>>>>> Adding a dog
